@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@archireport/react-native-pspdfkit@^1.32.20":
-  version "1.32.20"
-  resolved "https://registry.yarnpkg.com/@archireport/react-native-pspdfkit/-/react-native-pspdfkit-1.32.20.tgz#0aaefb6d582a18e408fc616d2a7b6104e8949e98"
-  integrity sha512-qfZSU8at72/suzjOSm0lBx8o6AK/b6JH+YjADPTaUZVEK63/esO1kRhBSTfpp+MD94q+B6szgPTUhZN4DVCm+A==
+"@archireport/react-native-pspdfkit@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@archireport/react-native-pspdfkit/-/react-native-pspdfkit-2.0.1.tgz#36202a9ee82d96ac7a104a04943df4e223460921"
+  integrity sha512-7AX7NQMn17KDlMhXpUND/wvOXvN5seKp3zZCwueYG3NBlVRHaXooAPYukK/+B4nrD0ltpsrFRtiYpaT6pvI8vg==
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.14.5":
   version "7.14.5"
@@ -5260,10 +5260,6 @@ react-native-codegen@^0.0.7:
     flow-parser "^0.121.0"
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
-
-"react-native-pspdfkit@github:PSPDFKit/react-native":
-  version "1.32.2"
-  resolved "https://codeload.github.com/PSPDFKit/react-native/tar.gz/b872bd60369513c132554c73f9610161038cfadc"
 
 react-native-safe-area-context@^3.3.2:
   version "3.3.2"
